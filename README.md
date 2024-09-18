@@ -11,6 +11,8 @@ I like to stay updated with the newest trends and tools that can help us build a
 - 📫 How to reach me: andre_suarez_schou@hotmail.com
 - ⚡ Fun fact: I prefer to use visual studio in dark mode theme because light attract bugs.
 
+![Screenshot 2024-09-18 140210](https://github.com/user-attachments/assets/45cfa7c9-a968-4af6-abac-849472071a64)
+
 ## My Skills 🧠
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
