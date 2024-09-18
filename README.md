@@ -4,7 +4,7 @@
 
 I'm a passionate Front-end web developer with experience in building react apps.
 I love tackling problems that are coding related, learning new skills, and collaborating to create innovative solutions.
-I like to stay updated with the newest trends and tools that can help us build applications more efficiently such as => v0.dev, tailwind css, shadcn, etc
+I like to stay updated with the newest trends and tools that can help us build applications more efficiently such as => v0.dev, tailwind css, shadcn components, etc
 
 - 🌱 Currently learning: How to build an AI Image editor powered by Cloudinary's API 
 - 🌍 Languages: english, danish, spanish / javascript, html, css, c#
