@@ -7,7 +7,7 @@ I love tackling problems that are coding related, learning new skills, and colla
 I like to stay updated with the newest trends and tools that can help us build applications more efficiently such as => v0.dev, tailwind css, shadcn components, etc
 
 - 🌱 Currently learning: How to build an AI Image editor powered by Cloudinary's API 
-- 🌍 Languages: english, danish, spanish / javascript, html, css
+- 🌍 Languages: english, danish, spanish / javascript(react frameworks)
 - 📫 How to reach me: andre_suarez_schou@hotmail.com
 - ⚡ Fun fact: I prefer to use visual studio in dark mode theme because light attract bugs.
 
