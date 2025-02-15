@@ -9,7 +9,7 @@ I like to stay updated with the newest trends and tools that can help us build a
 - 🌱 Currently learning: Deno 2.0 
 - 🌍 Languages: english, danish, spanish / javascript
 - 📫 How to reach me: andre_suarez_schou@hotmail.com
-- ⚡ Fun fact: Light mode themes attract bugs.
+- ⚡ Fun fact: Light mode theme applications are more prone to attract bugs.
 
 ![Screenshot 2024-09-18 140210](https://github.com/user-attachments/assets/45cfa7c9-a968-4af6-abac-849472071a64)
 
