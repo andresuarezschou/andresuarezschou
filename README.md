@@ -6,10 +6,11 @@ I'm a passionate Front-end web developer with experience in building react apps.
 I love solving problems that are coding related, learning new skills, and collaborating to create innovative solutions.
 I like to stay updated with the newest trends and tools that can help us build applications more efficiently such as => v0.dev, tailwind css, shadcn components.
 
-- 🌱 Currently learning: Deno 2.0 
-- 🌍 Languages: english, danish, spanish / javascript
+- 🌱 Currently learning: integrating commercetools into webshop project 
+- 🌍 Languages: english, danish, spanish
 - 📫 How to reach me: andre_suarez_schou@hotmail.com
-- ⚡ Fun fact: Light mode theme applications are more prone to attract bugs.
+
+This grasshopper chose the f12 key ... must be a web developer lol
 
 ![Screenshot 2024-09-18 140210](https://github.com/user-attachments/assets/45cfa7c9-a968-4af6-abac-849472071a64)
 
