@@ -6,7 +6,7 @@ I'm a passionate Front-end web developer with experience in building react apps.
 I love solving problems that are coding related, learning new skills, and collaborating to create innovative solutions.
 I like to stay updated with the newest trends and tools that can help us build applications more efficiently such as => v0.dev, tailwind css, shadcn components.
 
-- 🌱 Currently learning: integrating commercetools into webshop project 
+- 🌱 Currently learning: integrating commercetools into web shop project 
 - 🌍 Languages: english, danish, spanish
 - 📫 How to reach me: andre_suarez_schou@hotmail.com
 
