@@ -7,8 +7,8 @@
 - Exploring innovative approaches to backend integration.
 <br>
 
-- 🌍 Languages: english, danish, spanish
-- 📫 How to reach me: andre_suarez_schou@hotmail.com
+🌍 Languages: english, danish, spanish
+📫 How to reach me: andre_suarez_schou@hotmail.com
 
 This grasshopper chose the f12 key ... must be a web developer lol
 
