@@ -2,9 +2,11 @@
 
 ## About Me 
 
-I'm a passionate Front-end web developer with experience in building react apps.
-I love solving problems that are coding related, learning new skills, and collaborating to create innovative solutions.
-I like to stay updated with the newest trends and tools that can help us build applications more efficiently such as => v0.dev, tailwind css, shadcn components.
+    Web developer coding dynamic and responsive web applications.
+    Seeking opportunities to contribute to impactful web projects.
+    Interest in creating seamless UX through intuitive design and functionality.
+    Currently immersed in learning how to build a complete web shop solution.
+
 
 - 🌱 Currently learning: integrating commercetools into web shop project 
 - 🌍 Languages: english, danish, spanish
