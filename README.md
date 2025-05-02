@@ -6,7 +6,11 @@
     Interest in creating seamless UX through intuitive design and functionality.
     Diving into JavaScript frameworks, experimenting with cutting-edge CSS techniques, and exploring innovative approaches to backend integration.
 
-- 🌱 Currently learning: integrating commercetools into web shop project 
+-  Web developer coding dynamic and responsive web applications.
+-  Interest in creating seamless UX through intuitive design and functionality.
+- Diving into JavaScript frameworks, experimenting with cutting-edge CSS techniques.
+- Exploring innovative approaches to backend integration.
+
 - 🌍 Languages: english, danish, spanish
 - 📫 How to reach me: andre_suarez_schou@hotmail.com
 
