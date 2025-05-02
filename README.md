@@ -6,6 +6,7 @@
 - Diving into JavaScript frameworks, experimenting with cutting-edge CSS techniques.
 - Exploring innovative approaches to backend integration.
 
+
 - 🌍 Languages: english, danish, spanish
 - 📫 How to reach me: andre_suarez_schou@hotmail.com
 
