@@ -1,13 +1,8 @@
 # Hi there, I'm Andre! 👋
 
 ## About Me 
-
-    Web developer coding dynamic and responsive web applications.
-    Interest in creating seamless UX through intuitive design and functionality.
-    Diving into JavaScript frameworks, experimenting with cutting-edge CSS techniques, and exploring innovative approaches to backend integration.
-
--  Web developer coding dynamic and responsive web applications.
--  Interest in creating seamless UX through intuitive design and functionality.
+- Web developer coding dynamic and responsive web applications.
+- Interest in creating seamless UX through intuitive design and functionality.
 - Diving into JavaScript frameworks, experimenting with cutting-edge CSS techniques.
 - Exploring innovative approaches to backend integration.
 
