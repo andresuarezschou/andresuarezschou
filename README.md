@@ -3,10 +3,7 @@
 ## About Me 
 
     Web developer coding dynamic and responsive web applications.
-    Seeking opportunities to contribute to impactful web projects.
     Interest in creating seamless UX through intuitive design and functionality.
-    Currently immersed in learning how to build a complete web shop solution.
-
 
 - 🌱 Currently learning: integrating commercetools into web shop project 
 - 🌍 Languages: english, danish, spanish
