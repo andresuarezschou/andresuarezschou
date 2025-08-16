@@ -4,7 +4,7 @@
 - Web developer coding dynamic and responsive web applications.
 - Interest in creating seamless UX through intuitive design and functionality.
 - Diving into JavaScript frameworks, experimenting with cutting-edge CSS techniques.
-- Exploring innovative approaches to backend integration.
+- Exploring innovative approaches to backend integration with APIs.
 <br>
 
 🌍 Languages: english, danish, spanish <br>
