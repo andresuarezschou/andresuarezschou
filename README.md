@@ -1,10 +1,7 @@
 # Hi there, I'm Andre! 👋
 
 ## About Me 
-- Responsive web applications.
-- Seamless UX through intuitive design and functionality.
-- JavaScript frameworks, experimenting with cutting-edge CSS techniques.
-- Backend integration with APIs.
+
 <br>
 
 🌍 Languages: english, danish, spanish <br>
