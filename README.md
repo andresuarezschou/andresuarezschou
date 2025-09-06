@@ -1,7 +1,16 @@
 # Hi there, I'm Andre! 👋
 
 ## About Me 
+Hey everyone! I'm Andre Suarez Schou
 
+Welcome to my GitHub profile! I'm a developer who loves bringing ideas to life through code.
+
+I believe in the power of code to solve real-world problems and I'm always looking for new challenges and technologies to explore.
+
+- 🛠️ My favorite tools are Node.js, Next.js, tailwindcss
+- 💡 I’m currently exploring using nvim as my IDE.
+- 🤝 I'm open to collaborating on projects related to we
+- 🌐 Connect with me on https://www.linkedin.com/in/andresuarezschou/ or check out my portfolio at https://andresuarezschou.netlify.app/
 <br>
 
 🌍 Languages: english, danish, spanish <br>
