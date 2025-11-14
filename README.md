@@ -16,7 +16,7 @@ I believe in the power of code to solve real-world problems and I'm always looki
 🌍 Languages: english, danish, spanish <br>
 📫 How to reach me: andre_suarez_schou@hotmail.com
 
-This grasshopper chose the f12 key ... must be a web developer lol
+This critter chose the f12 key ... must be a web developer lol
 
 ![Screenshot 2024-09-18 140210](https://github.com/user-attachments/assets/45cfa7c9-a968-4af6-abac-849472071a64)
 
