@@ -9,7 +9,7 @@ I believe in the power of code to solve real-world problems and I'm always looki
 
 - 🛠️ My favorite tools are Node.js, React Developer Tools, Next.js, tailwindcss, nerdfonts.
 - 💡 I’m currently exploring how to use neovim as my IDE.
-- 🤝 I'm open to collaborating on projects which involve API integrations and the use of Content Management Systems to build functional websites such as webshops/e-commerce.
+- 🤝 I'm open to collaborating on projects which involve API integrations and the use of Content Management Systems to build functional websites.
 - 🌐 Connect with me on https://www.linkedin.com/in/andresuarezschou/ or check out my portfolio at https://andresuarezschou.netlify.app/
 <br>
 
