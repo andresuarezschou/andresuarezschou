@@ -3,13 +3,8 @@
 ## About Me 
 Hey everyone! I'm Andre Suarez Schou
 
-Welcome to my GitHub profile! I'm a developer who loves bringing ideas to life through code.
-
-I believe in the power of code to solve real-world problems and I'm always looking for new challenges and technologies to explore.
-
-- 🛠️ My favorite tools are Node.js, React Developer Tools, Next.js, tailwindcss, nerdfonts.
-- 💡 I’m currently exploring how to use neovim as an IDE.
-- 🤝 I'm open to collaborating on projects which involve API integrations and the use of Content Management Systems to build functional websites.
+- 🛠️ My favorite tools are Node.js, npm, Next.js, shadcn, tailwindcss, zustand.
+- 💡 I’m currently exploring neovim text editor.
 - 🌐 Connect with me on https://www.linkedin.com/in/andresuarezschou/ or check out my portfolio at https://andresuarezschou.netlify.app/
 <br>
 
