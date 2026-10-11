@@ -1,7 +1,7 @@
 # Hi there, I'm André! 👋
 
 ## About Me 
-- I enjoy coding frontend applications!
+- I enjoy coding!
 - 🌐 Connect with me on https://www.linkedin.com/in/andresuarezschou/ or check out my portfolio at https://andresuarezschou.netlify.app/
 <br>
 
