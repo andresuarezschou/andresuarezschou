@@ -6,7 +6,7 @@
 <br>
 
 🌍 Languages: english, danish, spanish <br>
-📫 How to reach me: andre_suarez_schou@hotmail.com
+📫 How to reach me: suarezschou314@gmail.com
 
 
 ## My Skills 🖥️
