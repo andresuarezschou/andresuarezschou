@@ -1,10 +1,6 @@
 # Hi there, I'm Andre! 👋
 
 ## About Me 
-Hey everyone! I'm Andre Suarez Schou
-
-- 🛠️ My favorite tools are Node.js, npm, Next.js, shadcn, tailwindcss, zustand.
-- 💡 I’m currently exploring neovim text editor.
 - 🌐 Connect with me on https://www.linkedin.com/in/andresuarezschou/ or check out my portfolio at https://andresuarezschou.netlify.app/
 <br>
 
